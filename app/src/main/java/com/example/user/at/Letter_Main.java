@@ -53,7 +53,7 @@ public class Letter_Main extends Fragment {
                 position=i;
                 switch (position) {
                     case 0:
-                        letter_text.setText("받은쪽지함");
+                        letter_text.setText("받은쪽지함");//ㅁㄴㅇㄻㄴㅇㄹㅈㅈ
                         break;
                     case 1:
                         letter_text.setText("보낸쪽지함");
